@@ -1,0 +1,15 @@
+# 環境変数
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+
+# LangGraph CLI
+.langgraph_api/
